@@ -1,11 +1,13 @@
 
 # Website
 
-A brief description of what this project does and who it's for
+ This is a responsive, static, multiple pages website  based on HTML ,CSS and Javascript
+  - ***View this site*** [here](https://manqobasibeko.github.io/Website1/index.html)
 
 
 
 ![App Screenshot](https://images.pexels.com/photos/1081685/pexels-photo-1081685.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200&w=220)
+
 
 
 ### Table of Content
@@ -18,7 +20,6 @@ A brief description of what this project does and who it's for
   
 ### Description
 
-Creating a complete responsive, static, multiple pages website  based on HTML ,CSS and Javascript
 This layout includes 6 different HTML pages, Homepage has a simple background banner with animanted navigation bar and beautiful sticky animated effect .  
 
 ### Tech Stack
