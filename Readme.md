@@ -38,12 +38,11 @@ the how to use the scroll event handler on Javascript from the application of th
 
 ### References
 
-[Flexbox](https://www.youtube.com/watch?v=JJSoEo8JSnc)
-[Sticky Navaigation Bar](https://www.youtube.com/watch?v=6HFpw5fcaD8&t=76s)
-[Flexbox](https://linktodocumentation)
+- Flexbox from [@KevinPowell](https://www.youtube.com/watch?v=JJSoEo8JSnc)
+- Sticky Navaigation Bar from [@OnlineTutorials](https://www.youtube.com/watch?v=6HFpw5fcaD8&t=76s)
   
   
-## Authors
+## Author
 
 - Github [@ManqobaSibeko](https://wwwhttps:/github.com/ManqobaSibeko)
 - Twitter [@ManqobaSibeko](https://twitter.com/ManqobaSibekoQh)
